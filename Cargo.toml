@@ -1,0 +1,8 @@
+[package]
+edition = "2021"
+name = "ring-poc"
+version = "0.1.0"
+description = "Proof of concept for ring 0.17 compilation issue on aarch64"
+
+[dependencies]
+ring = "0.17.3"
